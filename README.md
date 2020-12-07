@@ -1,2 +1,2 @@
-# aplicacaoPythonFlask
+# AplicacaoPythonFlask
 Aplicação Python + Flask
